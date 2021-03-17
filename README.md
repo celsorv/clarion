@@ -1,4 +1,4 @@
-# clarion
+# Clarion
 
 Softvelocity Clarion
 
