@@ -2,7 +2,7 @@
 !* Nome      : DeleteFiles v1.00
 !* Descrição : Apaga arquivos de um diretório
 !* Autor     : Celso R. Vitorino
-!* Data      : 26/02/2002
+!* Data      : 15/03/2008
 !* Parâmetros: Diretório, nome de arquivo (aceita coringa)
 !* Retorno   : True, False
 !***************
